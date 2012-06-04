@@ -7,4 +7,4 @@ well as Jung's tutorial I used as a reference.
 
 Dependencies:
 1. Jung package
-2. ScreenImage class in src folder (used to write to file)
+2. ScreenImage class in src folder (used to write to file).  I found this class online and do not take any credit.
